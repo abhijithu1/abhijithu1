@@ -7,13 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/abhijith__unni" target="blank"><img src="https://img.shields.io/twitter/follow/abhijith__unni?logo=twitter&style=for-the-badge" alt="abhijith__unni" /></a> </p>
 
-- 🔭 I’m currently working on **Irrigation App**
-
-- 🌱 I’m currently learning **Flutter**
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **abhiunni9656@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
